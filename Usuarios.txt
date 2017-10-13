@@ -1,0 +1,10 @@
+A chave do AES é a mesma para todos: 0x2b7e151628aed2a6abf7158809cf4f3c
+A senha é a mesma para todos: admin123
+A Api key é a mesma para todos tambem: seguranca123
+
+usuarios: {
+	matheus
+	lucas
+	RIBEIRAO
+}
+
